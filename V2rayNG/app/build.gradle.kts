@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tencent.ang"
+    namespace = "com.tencent.admin"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.tencent.ang"
+        applicationId = "com.tencent.admin"
         minSdk = 21
         targetSdk = 35
         versionCode = 669

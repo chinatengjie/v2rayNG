@@ -10,8 +10,8 @@
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="com.tencent.ang.ui.ScSwitchActivity"
-            android:targetPackage="com.tencent.ang" />
+            android:targetClass="com.tencent.admin.ui.ScSwitchActivity"
+            android:targetPackage="com.tencent.admin" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
     <shortcut
@@ -24,8 +24,8 @@
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="com.tencent.ang.ui.ScScannerActivity"
-            android:targetPackage="com.tencent.ang" />
+            android:targetClass="com.tencent.admin.ui.ScScannerActivity"
+            android:targetPackage="com.tencent.admin" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
 </shortcuts>
